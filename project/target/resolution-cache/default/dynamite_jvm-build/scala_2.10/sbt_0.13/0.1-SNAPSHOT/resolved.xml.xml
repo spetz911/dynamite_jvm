@@ -4,7 +4,7 @@
 		module="dynamite_jvm-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20141229011348"
+		publication="20150102220757"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
